@@ -1,0 +1,14 @@
+tensorflow
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+pillow
+notebook # comment this out at the time of heroku deployement
+# scipy>=0.15.1
+# scikit-learn>=0.18
+# matplotlib>=1.4.3
+# pandas>=0.19
